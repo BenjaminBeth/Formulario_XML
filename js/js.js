@@ -40,7 +40,7 @@ window.onload = function(){
     }
     return false;
   }
-  var url = "https://rawgit.com/BenjaminBeth/Formulario/master/xml/questions.xml"
+  var url = "https://rawgit.com/BenjaminBeth/Formulario_XML/master/xml/questions.xml"
   var xhttp = new XMLHttpRequest();
   xhttp.onreadystatechange = function() {
     if (this.readyState == 4 && this.status == 200) {
