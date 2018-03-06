@@ -12,7 +12,9 @@ url: https://cdn.rawgit.com/BenjaminBeth/Formulario_XML/be22ce3b/index.html
 Los archivos questions.xml y questions.dtd validado con XMLValidator.
 
 # minify
-minified los archivos index.html formulario.html desktop.css mobile.css
+minified los archivos index.html formulario.html desktop.css mobile.css.
+Branch llamado minified
+
 # Parche 1.0
 El primer bug que me ha surgido, un problema con el valor “i” en answersSelect.
 Lo he solucionado agregando un parche, con la carcterística de cambiar el valor “i”
