@@ -5,6 +5,9 @@ Proyecto Formulario , datos extraídos de XML. Proyecto 2nda Evaluación ASIX.
 He decidido orientar mi formulario sobre el skateboarding.
 Un deporte que practico diariamente en la ciudad de Palma.
 
+# Rawgit
+url: https://cdn.rawgit.com/BenjaminBeth/Formulario_XML/be22ce3b/index.html
+
 # Questions
 Los archivos questions.xml y questions.dtd validado con XMLValidator.
 
