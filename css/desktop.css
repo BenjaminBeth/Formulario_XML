@@ -1,0 +1,48 @@
+body {
+  font-family:sans-serif;
+  color:#384047;
+}
+#titulo{
+  color:#384047;
+  text-align: center;
+  font-size:2vw;
+}
+#informacion{
+  text-align: left;
+  right:auto;
+  width:50%;
+  position: relative: ;
+  font-size: 1.5vw;
+}
+form {
+  width:100%;
+  float:left;
+  clear:both;
+  box-shadow:0px 2px 2px #000;
+    -moz-box-shadow:0px 2px 2px #000;
+    -webkit-box-shadow:0px 2px 2px #000;
+  border-radius:5px;
+    -moz-border-radius:5px;
+    -webkit-border-radius:5px;
+  background-color:#384047;
+  color:white;
+}
+footer {
+  width:100%;
+  float:left;
+  clear:both;
+  box-shadow:0px 2px 2px #000;
+    -moz-box-shadow:0px 2px 2px #000;
+    -webkit-box-shadow:0px 2px 2px #000;
+  border-radius:5px;
+    -moz-border-radius:5px;
+    -webkit-border-radius:5px;
+  background-color:#384047;
+  color:white;
+}
+
+footer section {
+  width:440px;
+  float: left;
+  padding:20px;
+}

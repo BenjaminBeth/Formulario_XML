@@ -1,0 +1,104 @@
+{
+  "questions": [
+    {
+      "type": "Text",
+      "title": "Qué tipo de música se escuchaba, en las zonas bajas de NYC en los años 80 ?</",
+      "answer": "Hip Hop"
+    },
+    {
+      "type": "Text",
+      "title": "En que país nació el Skateboarding</",
+      "answer": "California"
+    },
+    {
+      "type": "Select",
+      "title": "De qué material están fabricadas las tablas de skate ?",
+      "options": [
+        "tela",
+        "madera",
+        "acero"
+      ],
+      "answer": "madera"
+    },
+    {
+      "type": "Select",
+      "title": "Donde se practica oficialmente el skateboarding ?",
+      "options": [
+        "En un Skatepark",
+        "En una playa",
+        "Sentado en un bar"
+      ],
+      "answer": "En un Skatepark"
+    },
+    {
+      "type": "Multiple",
+      "title": "¿Cuáles son las partes principales de un skate ?",
+      "options": [
+        "Ejes",
+        "Tabla",
+        "Cerveza",
+        "Ruedas"
+      ],
+      "answer": "Ejes",
+      "answer": "Tabla",
+      "answer": "Ruedas"
+    },
+    {
+      "type": "Multiple",
+      "title": "¿Cuáles son tiendas skate ?",
+      "options": [
+        "Devil",
+        "Shine",
+        "PullandBear",
+        "Bar Plaza"
+      ],
+      "answer": "Devil",
+      "answer": "Shine"
+    },
+    {
+      "type": "CheckBox",
+      "title": "Qué marcas són de skate ?",
+      "options": [
+        "Nike SB",
+        "Hacendado",
+        "Flip",
+        "Element"
+      ],
+      "answer": "Nike SB",
+      "answer": "Flip",
+      "answer": "Element"
+    },
+    {
+      "type": "CheckBox",
+      "title": "Quién es skater, en este grupo de famosos ?",
+      "options": [
+        "Tupac Shakur",
+        "Tony Hawk",
+        "Ryan Scheckler",
+        "Usain Bolt"
+      ],
+      "answer": "Tony Hawk",
+      "answer": "Ryan Scheckler"
+    },
+    {
+      "type": "Radio",
+      "title": "¿Qué modelo de skatepark creo M. Urbina ?",
+      "options": [
+        "Thibaut Courtouis",
+        "Sa Riera",
+        "Noord Skatepark"
+      ],
+      "answer": "Sa Riera"
+    },
+    {
+      "type": "Radio",
+      "title": "¿Quien ganó el título de skater del año por trasher magazine ?",
+      "options": [
+        "Jamie Foy",
+        "Torey Pudwill",
+        "Rodrigo TX"
+      ],
+      "answer": "Jamie Foy"
+    },
+  ]
+}

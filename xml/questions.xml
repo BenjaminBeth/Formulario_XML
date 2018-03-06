@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE questions SYSTEM "questions.dtd">
+  <questions>
+    <question id="quest001">
+      <type>text</type>
+      <title>Qué tipo de música se escuchaba, en las zonas bajas de NYC en los años 80 ?</title>
+      <answer>hiphop</answer>
+    </question>
+    <question id="quest002">
+      <type>text</type>
+      <title>En que país nació el skateboarding ?</title>
+      <answer>California</answer>
+    </question>
+    <question id="quest003">
+      <type>select</type>
+      <title>De qué material están fabricadas las tablas de skate ?</title>
+      <option>Tela</option>
+      <option>Madera</option>
+      <option>Acero</option>
+      <answer>1</answer>
+    </question>
+    <question id="quest004">
+      <type>select</type>
+      <title>Donde se practica oficialmente el skateboarding ?</title>
+      <option>En un Skatepark</option>
+      <option>En una playa</option>
+      <option>Sentado en un bar</option>
+      <answer>0</answer>
+    </question>
+    <question id="quest005">
+      <type>multiple</type>
+      <title>¿Cuáles son las partes principales de un skate ?</title>
+      <option>Ejes</option>
+      <option>Tabla</option>
+      <option>Cerveza</option>
+      <option>Ruedas</option>
+      <answer>0</answer>
+      <answer>1</answer>
+      <answer>3</answer>
+    </question>
+    <question id="quest006">
+      <type>multiple</type>
+      <title>Cuáles són tiendas de skate ?</title>
+      <option>Devil</option>
+      <option>Shine</option>
+      <option>PullandBear</option>
+      <option>Bar plaza</option>
+      <answer>0</answer>
+      <answer>1</answer>
+    </question>
+    <question id="quest007">
+      <type>checkbox</type>
+      <title>Qué marcas són de skate ?</title>
+      <option>Nike sb</option>
+      <option>Hacendado</option>
+      <option>Flip</option>
+      <option>Element</option>
+      <answer>0</answer>
+      <answer>2</answer>
+      <answer>3</answer>
+    </question>
+    <question id="quest008">
+      <type>checkbox</type>
+      <title>Quién es skater, en este grupo de famosos ?</title>
+      <option>Tupac Shakur</option>
+      <option>Tony Hawk</option>
+      <option>Ryan Scheckler</option>
+      <option>Usain Bolt</option>
+      <answer>1</answer>
+      <answer>2</answer>
+    </question>
+    <question id="quest009">
+      <type>radio</type>
+      <title>¿Qué modelo de skatepark creo M. Urbina ?</title>
+      <option>Thibaut Courtois</option>
+      <option>Sa riera</option>
+      <option>Noord skatepark</option>
+      <answer>1</answer>
+    </question>
+    <question id="quest010">
+      <type>radio</type>
+      <title>¿Quien ganó el título de skater del año por trasher magazine ?</title>
+      <option>Jamie Foy</option>
+      <option>Torey Pudwill</option>
+      <option>Rodrigo Tx</option>
+      <answer>0</answer>
+    </question>
+  </questions>
