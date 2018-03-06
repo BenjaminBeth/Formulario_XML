@@ -79,7 +79,7 @@ function gestionarXml(dadesXml){
           answersSelect.push(parseInt(xmlDoc.getElementsByTagName("question")[i].getElementsByTagName("answer")[0].innerHTML));
           //Bug de InnerHTML con el valor [i]
           //console.log(answersSelect[i]);
-          // parche //
+          // parche 1.0 //
           if (answersSelect[i] == undefined) {
             answersSelect[i] = 0;
           }
