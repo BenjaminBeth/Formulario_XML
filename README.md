@@ -13,9 +13,9 @@ El primer bug que me ha surgido, un problema con el valor “i” en answersSele
 Lo he solucionado agregando un parche, con la carcterística de cambiar el valor “i”
 de answersSelect a un valor [0].
 
-#Error en Corrección
+Error en Corrección
 A la hora de corregir el formulario, con los datos ya introducidos. Crea un Bug.
 
-#Extras
+# Extras
 - Agregar un tiempo máximo para completar el formulario.
 
